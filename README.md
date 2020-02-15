@@ -4,11 +4,37 @@ This project is one of the projects in my Data Science Nano-degree at Udacity. a
 
 # Three models were trained with this data , and the accuracies are :
 
-Gradient Boosted Trees - 68.9%
+random forest classifier model :
 
-Random Forest - 68.4%
+Random Forest -> PR AUC: 1.0
+Random Forest
+ | precision = 1.0
+ | recall = 1.0
+ | F1-Score = 1.0
 
-SVM - 68.4%
+gradient boosted trees (ie ada boost):
+
+Gradient Boosted Trees -> PR AUC: 1.0
+Gradient Boosted Trees
+ | precision = 1.0
+ | recall = 1.0
+ | F1-Score = 1.0
+
+SVM:
+
+Support Vector Machine -> PR AUC: 1.0
+Support Vector Machine
+ | precision = 1.0
+ | recall = 1.0
+ | F1-Score = 1.0
+ 
+logistic regression model:
+
+Logistic Regression -> PR AUC: 1.0
+Logistic Regression
+ | precision = 0.4
+ | recall = 0.4
+ | F1-Score = 0.4
 
 # data files : 
 1- readme 2- sparkify
